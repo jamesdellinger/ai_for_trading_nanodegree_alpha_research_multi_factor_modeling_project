@@ -22,7 +22,7 @@ Topic: Multi-Factor Models.
 * [ipython notebook](http://nbviewer.jupyter.org/github/jamesdellinger/ai_for_trading_nanodegree_alpha_research_multi_factor_modeling_project/blob/master/project_4_starter.ipynb)
 
 ## Project Grading and Evaluation
-* [Project Review](https://github.com/jamesdellinger/ai_for_trading_nanodegree_alpha_research_multi_factor_modeling_project/blob/master/breakout_strategy_project_review.pdf)
+* [Project Review](https://github.com/jamesdellinger/ai_for_trading_nanodegree_alpha_research_multi_factor_modeling_project/blob/master/alpha_research_multi_factor_modeling_project_review.pdf)
 
 ## Dependencies
 * [requirements.txt](https://github.com/jamesdellinger/ai_for_trading_nanodegree_alpha_research_multi_factor_modeling_project/blob/master/requirements.txt)
